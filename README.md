@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Hi, I'm Camilo Andrés Fetecua Muñoz  
+## 🛠 QA Tester | Automation | Python & Selenium  
 
-<!--
-**CFetecua/CFetecua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **About Me**  
+I’m a **QA Tester with experience in test automation** for web and mobile applications. I specialize in **Selenium, Python, and Playwright**, along with manual testing and quality analysis.  
 
-Here are some ideas to get you started:
+🚀 **I'm interested in:**  
+- Test automation using **Selenium, Playwright, and Cypress**  
+- API testing with **Postman and RestAssured**  
+- Integrating automated tests into **CI/CD (GitHub Actions, Jenkins)**  
+- Security testing and QA process improvements  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Skills:**  
+✅ **Languages:** Python, JavaScript, TypeScript  
+✅ **Tools:** Selenium, Playwright, Cypress, Postman, JMeter  
+✅ **Methodologies:** SCRUM, TDD, BDD  
+✅ **Databases:** SQL, NoSQL  
+✅ **Others:** Git, Docker, Linux  
